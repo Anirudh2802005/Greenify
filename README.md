@@ -19,3 +19,6 @@ Greenify is a Flutter-based mobile application that helps users track plastic us
 ```bash
 flutter pub get
 flutter run
+
+## 📥 Download APK
+[Download Greenify App](https://github.com/Anirudh2802005/Greenify/releases)
